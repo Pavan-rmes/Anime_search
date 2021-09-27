@@ -77,11 +77,11 @@
     }
     .gridcontainer ul{
         width: 70%;
-        height:60%;
+        height:auto;
         background-color: white;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
     }
     .gridcontainer{
-        row-gap:20px    
+        row-gap:2%    
     }
