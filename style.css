@@ -59,6 +59,13 @@
         grid-template-columns: 45% 45%;
         background-color: rgb(230, 243, 243);
     }
+    .poster{
+        padding-top: 10px;
+        height: 300px;
+        width: 85%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
 }
 @media(max-width:750px){
     .gridcontainer{
