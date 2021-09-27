@@ -82,4 +82,6 @@
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
     }
-}
+    .gridcontainer{
+        row-gap:20px    
+    }
