@@ -39,7 +39,7 @@
 
 .poster{
     padding-top: 10px;
-    height: 80%px;
+    height: 400px;
     width: 85%;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -66,5 +66,20 @@
         justify-content: space-around;
         grid-template-columns:100%;
         background-color: rgb(230, 243, 243);
+    }
+    
+    .poster{
+        padding-top: 10px;
+        height: auto;
+        width: 70%;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .gridcontainer ul{
+        width: 70%;
+        height:60%;
+        background-color: white;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
     }
 }
