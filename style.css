@@ -76,6 +76,7 @@
     }
     
     .poster{
+        object-fit:cover;
         padding-top: 10px;
         height: auto;
         width: 70%;
